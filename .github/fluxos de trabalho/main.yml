@@ -1,0 +1,3 @@
+chcp 65001
+
+ReadCrd.exe -e Windows-1251 Contacts.CRD
